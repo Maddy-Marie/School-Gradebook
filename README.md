@@ -1,0 +1,1 @@
+This gradebook application is written in C++. It reads in student grade information from a text file (test1.txt), processes the grades, and ouputs them into a new file (output1.txt). The user has the opportunity to search for a student, as well as change a student's grades. This is one of the bigger programs I have written in C++, as it was a final project for a course. Enjoy!
